@@ -11,3 +11,4 @@ cygwin1.dll
 pspsh.exe
 usbhostfs_pc.exe
 build.bat
+*.o
